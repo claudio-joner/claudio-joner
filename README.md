@@ -1,6 +1,6 @@
 
 <h1><center> Hola soy Claudio Joner 👋</center></h1>
-![This is an alt text.](/img/ClaudioJoner.jpg)
+<img src="https://i.imgur.com/weNbhGZ.png">
 <h2> Sobre mi</h2>
 <p>
 <li>👨‍💻 Programador</li>
