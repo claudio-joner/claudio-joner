@@ -1,5 +1,15 @@
-## Hi there 👋
 
+<h1><center> Hola soy Claudio Joner 👋</center></h1>
+<img src="">
+<h2> Sobre mi</h2>
+<p>
+<li>👨‍💻 Programador</li>
+<li>📚 Estudiante de Programación en UTN FRC.</li>
+<li>🥇 Objetivo: implementar soluciones a problemas cotidianos de la gente.</li>
+<li>Linkedin: <a>linkedin.com/in/claudio-joner/</a></li>
+</p>
+<hr>
+<h2> Conocimientos</h2>
 <!--
 **claudio-joner/claudio-joner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
