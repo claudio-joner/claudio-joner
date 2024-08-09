@@ -61,9 +61,6 @@ El mismo se consta de 3 partes:
 
 <b>Repositorio</b>: <a>https://github.com/claudio-joner/CarpinteriaApp</a>
 
+<b>Tecnologias usadas:</b> .Net, Api, ASP.NET, WinForm, Patrones de diseño(Dao, Factory ,Singleton), Transacciones, Servicios, Programacion en Capas. 
 </p>
-<h3></h3>
-<p></p>
-<h3></h3>
-<p></p>
-</p>
+
