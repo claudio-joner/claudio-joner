@@ -1,6 +1,6 @@
 
 <h1><center> Hola soy Claudio Joner 👋</center></h1>
-![Pato](../claudio-joner/img/ClaudioJoner.png)
+![](https://github.com/claudio-joner/claudio-joner/blob/master/img/ClaudioJoner.png)
 <h2> Sobre mi</h2>
 <p>
 <li>👨‍💻 Programador</li>
