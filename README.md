@@ -17,7 +17,7 @@
 <a target="_blank" href="mailto:claujoner@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 &emsp;
-<h1>🛠️ Conomientos</h1>
+<h1>🛠️ Conocimientos</h1>
 
 <p>
 
