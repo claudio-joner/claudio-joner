@@ -7,7 +7,8 @@
 <li>🌎 Cordoba,Argentina.</li>
 <li>📚 Estudiante de Programación en UTN FRC.</li>
 <li>🥇 Mi principal objetivo es poder implementar soluciones a diferentes problemas cotidianos de la gente, de esa manera facilitarle sus tareas.</li>
-<li>🧭 En mi tiempo libre me gusta practicar ciclismo  y  paddle.
+<li>🧭 En mi tiempo libre me gusta practicar ciclismo  y  paddle.</li>
+<li>En este <a href="https://drive.google.com/file/d/15dRUHaSpxCX0Rbuwi8ex2FekBqY76ct4/view?usp=sharing">link</a> podrás visualizar mi cv.</li>
 </p>
 &emsp;
 <h1>📲 Redes Sociales </h1>
@@ -17,7 +18,7 @@
 <a target="_blank" href="mailto:claujoner@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 &emsp;
-<h1>🛠️ Conomientos</h1>
+<h1>🛠️ Conocimientos</h1>
 
 <p>
 
