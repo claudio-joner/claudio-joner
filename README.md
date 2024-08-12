@@ -51,12 +51,12 @@
 <h1>📝 Proyectos </h1>
 <p>
 <h3><li>Proyecto de Carpinteria</li></h3>
-<p>El proyecto se utiliza para hacer realizar presupuesto de los presupuestos de productos de una carpinteria.
-El mismo se consta de 3 partes:
+<p>El proyecto se utiliza para hacer realizar presupuesto de los productos de una carpintería.
+El mismo posee 3 partes:
 
 -<b>CarpinteriFronted</b>: consta de un proyecto winforms. 
 
--<b>CarpinteriaBackend</b>: es una biblioteca de clases.Acá se almacenan las capas de acceso a Datos, nuestro Dominio y los servicios que solicitan los controladores.
+-<b>CarpinteriaBackend</b>: es una biblioteca de clases.Acá se almacenan las capas de acceso a datos, nuestro dominio y los servicios que solicitan los controladores.
 
 -<b>CarpinteriaApi</b>es contiene el controlador que conectaria un front con el back.
 
