@@ -1,5 +1,5 @@
 
-<h1><center> Hola soy Claudio Joner 👋</center></h1>
+<h1><center> Hola soy Claudio 👋</center></h1>
 &emsp;
 <h1>✍ Sobre mi</h1>
 <p>
