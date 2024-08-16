@@ -64,4 +64,19 @@ El mismo posee 3 partes:
 
 <b>Tecnologias usadas:</b> .Net, Api, ASP.NET, WinForm, Patrones de diseño(Dao, Factory ,Singleton), Transacciones, Servicios, Programacion en Capas. 
 </p>
+<p>
+<h3><li>Proyecto de Estanciero</li></h3>
+<p>Es un proyecto grupal propuesto por la cátedra de Laboratorio de Computación IV, simulamos una partida virtual del famoso juego argentino Estanciero.
+
+<b>Apendizajes</b>: 
+<ul>
+  <li>-Trabajamos con Java,Springboot y Maven.</li>
+  <li>-Tuvimos que realizar test unitarios, llegamos a un coverage de más del %60.</li>
+  <li>-Aprendimos a trabajar basandonos en el flujo de trabajo de gitflow, creando ramas por cada integrante y trabajando con ramas de desarrollo y producción.</li>
+</ul>
+
+<b>Repositorio</b>: <a>https://github.com/claudio-joner/ProyectoEstanciero</a>
+
+<b>Tecnologias usadas:</b> JAVA, SpringBoot, JUnit, Patrones de diseño(Repository), Transacciones, Servicios, Programacion en Capas.
+</p>
 
