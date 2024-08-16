@@ -70,9 +70,9 @@ El mismo posee 3 partes:
 
 <b>Apendizajes</b>: 
 <ul>
-  <li>-Trabajamos con Java,Springboot y Maven.</li>
-  <li>-Tuvimos que realizar test unitarios, llegamos a un coverage de más del %60.</li>
-  <li>-Aprendimos a trabajar basandonos en el flujo de trabajo de gitflow, creando ramas por cada integrante y trabajando con ramas de desarrollo y producción.</li>
+  <li>Trabajamos con Java,Springboot y Maven.</li>
+  <li>Tuvimos que realizar test unitarios, llegamos a un coverage de más del %60.</li>
+  <li>Aprendimos a trabajar basandonos en el flujo de trabajo de gitflow, creando ramas por cada integrante y trabajando con ramas de desarrollo y producción.</li>
 </ul>
 
 <b>Repositorio</b>: <a>https://github.com/claudio-joner/ProyectoEstanciero</a>
