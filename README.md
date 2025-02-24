@@ -8,7 +8,7 @@
 <li>📚 Estudiante de Programación en UTN FRC.</li>
 <li>🥇 Mi principal objetivo es poder implementar soluciones a diferentes problemas cotidianos de la gente, de esa manera facilitarle sus tareas.</li>
 <li>🧭 En mi tiempo libre me gusta practicar ciclismo  y  paddle.</li>
-<li>En este <a href="https://drive.google.com/file/d/1zMKKprJDH4khYbXZ7XbDVO4S-hhvcHGQ/view?usp=sharing">link</a> podrás visualizar mi cv.</li>
+<li>En este <a href="https://drive.google.com/file/d/1M44cln2dSX6LsdukLJge-TkSPk7GeKoj/view?usp=drive_link">link</a> podrás visualizar mi cv.</li>
 </p>
 &emsp;
 <h1>📲 Redes Sociales </h1>
