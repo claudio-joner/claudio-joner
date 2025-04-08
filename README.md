@@ -8,7 +8,8 @@
 <li>📚 Estudiante de Ingeniería en UTN FRC.</li>
 <li>🥇 Mi principal objetivo es poder implementar soluciones a diferentes problemas cotidianos de la gente, de esa manera facilitarle sus tareas.</li>
 <li>🧭 En mi tiempo libre me gusta practicar ciclismo  y  paddle.</li>
-<li>En este <a href="https://drive.google.com/file/d/1M44cln2dSX6LsdukLJge-TkSPk7GeKoj/view?usp=drive_link">link</a> podrás visualizar mi cv.</li>
+<li>En este <a href="https://drive.google.com/file/d/1M44cln2dSX6LsdukLJge-TkSPk7GeKoj/view?usp=sharing">link</a> podrás visualizar mi cv.</li>
+
 </p>
 &emsp;
 <h1>📲 Redes Sociales </h1>
@@ -24,6 +25,8 @@
 
 ### 👉 Backend
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=purple)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### 👉 Frontend
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -35,7 +38,8 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 👉 Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 👉 Herramientas de Versionado
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
