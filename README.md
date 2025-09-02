@@ -54,21 +54,6 @@
 
 <h1>📝 Proyectos </h1>
 <p>
-<h3><li>Proyecto de Carpinteria</li></h3>
-<p>El proyecto se utiliza para hacer realizar presupuesto de los productos de una carpintería.
-El mismo posee 3 partes:
-
--<b>CarpinteriFronted</b>: consta de un proyecto winforms. 
-
--<b>CarpinteriaBackend</b>: es una biblioteca de clases.Acá se almacenan las capas de acceso a datos, nuestro dominio y los servicios que solicitan los controladores.
-
--<b>CarpinteriaApi</b>es contiene el controlador que conectaria un front con el back.
-
-<b>Repositorio</b>: <a>https://github.com/claudio-joner/CarpinteriaApp</a>
-
-<b>Tecnologias usadas:</b> .Net, Api, ASP.NET, WinForm, Patrones de diseño(Dao, Factory ,Singleton), Transacciones, Servicios, Programacion en Capas. 
-</p>
-<p>
 <h3><li>Proyecto de Estanciero</li></h3>
 <p>Es un proyecto grupal propuesto por la cátedra de Laboratorio de Computación IV, simulamos una partida virtual del famoso juego argentino Estanciero.
 
