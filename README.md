@@ -8,7 +8,7 @@
 <li>📚 Estudiante de Ingeniería en UTN FRC.</li>
 <li>🥇 Mi principal objetivo es poder implementar soluciones a diferentes problemas cotidianos de la gente, de esa manera facilitarle sus tareas.</li>
 <li>🧭 En mi tiempo libre me gusta practicar ciclismo  y  paddle.</li>
-<li>En este <a href="https://drive.google.com/file/d/1-hPDVREBsfRCZClVSwdqWLJn64ijjxj7/view?usp=sharing">link</a> podrás visualizar mi cv.</li>
+<li>En este <a href="https://drive.google.com/file/d/1Bneawq-BiZBLEKFkLqMyN0SvaSbSRQRR/view?usp=sharing">link</a> podrás visualizar mi cv.</li>
 
 </p>
 &emsp;
