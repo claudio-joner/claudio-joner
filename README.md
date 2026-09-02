@@ -6,7 +6,7 @@
 
 ![Perfil](https://komarev.com/ghpvc/?username=claudio-joner&label=Visitas&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-joner/)
-[![CV](https://img.shields.io/badge/-Ver%20CV-4285F4?style=flat-square&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1SyLdQE1Klm65HHB3uOh233wPLE-ChzgU/view?usp=sharing](https://drive.google.com/file/d/1GIVpDzkrIG77CFwUp9yjpiuDzMRQ7Div/view?usp=sharing))
+[![CV](https://img.shields.io/badge/-Ver%20CV-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GIVpDzkrIG77CFwUp9yjpiuDzMRQ7Div/view?usp=sharing)
 
 </div>
 
